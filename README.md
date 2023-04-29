@@ -2,7 +2,9 @@
 
 ## Description
 
-App generates a team roster by utilizing CLI inquirer prompts. This is a Node.js command-line application that takes in information about employees on a software engineering team, then generates an HTML webpage that displays summaries for each person. The challenge was also to create modularized constructor files directly from a test suite. There was starter code in the test files and generate.html file, so my code had to fit seamlessly.
+App generates a team roster by utilizing CLI inquirer prompts. This is a Node.js command-line application that takes in information about employees on a software engineering team, then generates an HTML webpage that displays summaries for each person.
+
+The challenge was also to create modularized constructor files directly from a test suite. There was starter code in the test files and generate.html file, so my code had to fit seamlessly.
 
 ## Installation
 
